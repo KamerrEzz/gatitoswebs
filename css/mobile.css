@@ -1,0 +1,22 @@
+@media (max-width: 600px) {
+    .products{
+        display: inherit;
+        height: auto;
+
+    }
+    .product {
+        margin-top: auto;
+    }
+    .main-section{
+        padding: 4%;
+    }
+    .articles, .mentions{
+        display: inherit;
+    }
+    .main-mention{
+        margin-bottom: auto;
+    }
+    .title {
+        font-size: 25px;
+    }
+}
